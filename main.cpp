@@ -5,7 +5,7 @@
 #include <fstream>
 using namespace std;
 //global variables
-int x = 23;
+int x = 22;
 int y = 10;
 int randnx = 99;
 int randny = 99;
